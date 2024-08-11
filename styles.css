@@ -2,12 +2,13 @@
 {
 	background-color:#f8f8f8;
 	text-align:center;
-	margin-top:10px;	
+	margin-top:20px;
+	
 }
 .book-library
 {
 	background-color:#ffffff;
-	margin:0px;
+	margin-top:10px;
 }
 book
 {
@@ -28,7 +29,7 @@ h2
 {
 	background-color:#2ecc71;
 	border-radius:4px;
-	margin-bottom:0px;
+	margin-bottom:10px;
 	margin:0px;
 }
 
