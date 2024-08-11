@@ -18,7 +18,6 @@ body {
 }
 
 .book {
-    background-color: #ffffff;
     border: 1px solid #ddd;
     border-radius: 8px;
     overflow: hidden;
@@ -44,7 +43,7 @@ body {
 }
 
 .price {
-    background-color: #2ecc71;
+   	background-color:rgb(46, 204, 113);
     color: #ffffff;
     padding: 5px;
     margin: 10px 0;
