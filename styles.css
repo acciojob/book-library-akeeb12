@@ -11,7 +11,7 @@ body {
     margin: 20px auto;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow:rgb(46, 204, 113);
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
@@ -24,7 +24,7 @@ body {
     overflow: hidden;
     width: 200px;
     text-align: center;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow:rgb(46, 204, 113);
 }
 
 .book img {
