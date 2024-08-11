@@ -18,12 +18,12 @@ body {
 }
 
 .book {
-    border: 1px solid #ddd;
+    border: 1px solid rgb(46, 204, 113);
     border-radius: 8px;
     overflow: hidden;
     width: 200px;
     text-align: center;
-    background-color:rgb(46, 204, 113);
+    
 }
 
 .book img {
