@@ -23,7 +23,7 @@ body {
     overflow: hidden;
     width: 200px;
     text-align: center;
-    box-shadow:rgb(46, 204, 113);
+    background-color:rgb(46, 204, 113);
 }
 
 .book img {
